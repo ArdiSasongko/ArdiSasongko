@@ -32,7 +32,7 @@ func main() {
 ### 📌 Pinned Repositories
 <p align="center">
 <a href="https://github.com/ArdiSasongko/Projects-Backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArdiSasongko&repo=Projects-Backend&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArdiSasongko&repo=Projects-Backend&theme=radical" alt="Project-Backend"/>
 </a>
 </p>
 
