@@ -29,6 +29,13 @@ func main() {
 }
 ```
 
+### 📌 Pinned Repositories
+<p align="center">
+<a href="https://github.com/ArdiSasongko/Projects-Backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArdiSasongko&repo=Projects-Backend&theme=radical" />
+</a>
+</p>
+
 ### 🛠️ Tech Stack
 <p align="center">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
